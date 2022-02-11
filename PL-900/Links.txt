@@ -1,1 +1,19 @@
 https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
+
+------------------------
+
+Microsoft Learning
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-common-data-service/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps/
+
+https://docs.microsoft.com/en-us/learn/modules/build-app-solution/
+
+https://docs.microsoft.com/en-us/learn/modules/how-build-model-driven-app/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/
+
+------------------------
