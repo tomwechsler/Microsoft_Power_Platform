@@ -16,4 +16,16 @@ https://docs.microsoft.com/en-us/learn/modules/how-build-model-driven-app/
 
 https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/
 
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/
+
+https://docs.microsoft.com/en-us/learn/modules/build-automated-solution/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
+
+https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-virtual-agents/
+
+https://docs.microsoft.com/en-us/learn/modules/how-build-basic-chatbot/
+
 ------------------------
