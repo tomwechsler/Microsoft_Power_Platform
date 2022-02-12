@@ -1,1 +1,9 @@
 https://powerplatform.microsoft.com/en-us/
+
+https://powerbi.microsoft.com/en-us/
+
+https://powerapps.microsoft.com/en-us/
+
+https://powerautomate.microsoft.com/en-us/
+
+https://powervirtualagents.microsoft.com/en-us/
