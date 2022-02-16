@@ -81,3 +81,6 @@ https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
 https://docs.microsoft.com/en-us/power-platform/admin/wp-security-cds
 
 https://docs.microsoft.com/en-us/power-bi/fundamentals/service-service-vs-desktop
+
+Join the Microsoft 365 Developer Program:
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
